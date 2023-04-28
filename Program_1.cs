@@ -8,7 +8,7 @@ Task № 1:
 - метод ToString()																																					
 */
 //--------------------------------------------------------------------------------------------------------																																					
-using System;
+/*using System;
 using System.Globalization;
 using static System.Console;
 namespace Lesson_40
@@ -96,4 +96,4 @@ namespace Lesson_40
             WriteLine("p6 = " + p6.GetType());
         }
     }
-}
+}*/
